@@ -8,3 +8,5 @@ or
 
 In order to run the program just use
 ```./main <image file>```
+
+Made with @Ivanatorion
